@@ -19,15 +19,6 @@ Output:
 aabbaa
 ```
 
-[![](https://sourcerer.io/fame/ramanaditya/girlscript-blr/codewithgirlscriptblr/Easy/19-10-28-Find Longest Palindrome in a String/images/0)](https://sourcerer.io/fame/ramanaditya/girlscript-blr/codewithgirlscriptblr/Easy/19-10-28-Find Longest Palindrome in a String/links/0)
-[![](https://sourcerer.io/fame/ramanaditya/girlscript-blr/codewithgirlscriptblr/Easy/19-10-28-Find Longest Palindrome in a String/images/1)](https://sourcerer.io/fame/ramanaditya/girlscript-blr/codewithgirlscriptblr/Easy/19-10-28-Find Longest Palindrome in a String/links/1)
-[![](https://sourcerer.io/fame/ramanaditya/girlscript-blr/codewithgirlscriptblr/Easy/19-10-28-Find Longest Palindrome in a String/images/2)](https://sourcerer.io/fame/ramanaditya/girlscript-blr/codewithgirlscriptblr/Easy/19-10-28-Find Longest Palindrome in a String/links/2)
-[![](https://sourcerer.io/fame/ramanaditya/girlscript-blr/codewithgirlscriptblr/Easy/19-10-28-Find Longest Palindrome in a String/images/3)](https://sourcerer.io/fame/ramanaditya/girlscript-blr/codewithgirlscriptblr/Easy/19-10-28-Find Longest Palindrome in a String/links/3)
-[![](https://sourcerer.io/fame/ramanaditya/girlscript-blr/codewithgirlscriptblr/Easy/19-10-28-Find Longest Palindrome in a String/images/4)](https://sourcerer.io/fame/ramanaditya/girlscript-blr/codewithgirlscriptblr/Easy/19-10-28-Find Longest Palindrome in a String/links/4)
-[![](https://sourcerer.io/fame/ramanaditya/girlscript-blr/codewithgirlscriptblr/Easy/19-10-28-Find Longest Palindrome in a String/images/5)](https://sourcerer.io/fame/ramanaditya/girlscript-blr/codewithgirlscriptblr/Easy/19-10-28-Find Longest Palindrome in a String/links/5)
-[![](https://sourcerer.io/fame/ramanaditya/girlscript-blr/codewithgirlscriptblr/Easy/19-10-28-Find Longest Palindrome in a String/images/6)](https://sourcerer.io/fame/ramanaditya/girlscript-blr/codewithgirlscriptblr/Easy/19-10-28-Find Longest Palindrome in a String/links/6)
-[![](https://sourcerer.io/fame/ramanaditya/girlscript-blr/codewithgirlscriptblr/Easy/19-10-28-Find Longest Palindrome in a String/images/7)](https://sourcerer.io/fame/ramanaditya/girlscript-blr/codewithgirlscriptblr/Easy/19-10-28-Find Longest Palindrome in a String/links/7)
-
 > Submission Date : Nov 02' 2019
 
 #### Note:
